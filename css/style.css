@@ -1,0 +1,21 @@
+.navbar-brand img {
+  height: 70px;
+}
+.navbar-dark {
+  background-color: black;
+}
+.masthead {
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000000 100%), url(https://cdn.glitch.global/cef3e4c6-8533-427d-987b-91a097816774/oaks_bg_skaters.png?v=1642917452164);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-size: cover;
+}
+.text-white a {
+  color: #9ACD32; /*#64a19d;*/
+  text-decoration: underline;
+}
+.text-white a:hover {
+  color: #5D7258; /*#50817e;*/
+}
+
